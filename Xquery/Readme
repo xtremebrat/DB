@@ -1,0 +1,20 @@
+Create the database.
+Compile the Program normally.
+
+Files Required:
+1) book.xml
+2) book.xsd
+3) createdb.sql
+4) q1.xquery 
+5) q2.xquery 
+6) q3.xquery 
+7) q4.xquery
+8) q5.xquery 
+9) q6.xquery 
+10) review.xml
+11) review.xsd 
+12) xquery.java 
+13) dropdb.sql
+
+File path: The files book.xml, review.xml, book.xsd, review.xsd should be placed in the same directory as the workspace 
+xquery.java is used to insert data into the tables that were created using createdb.sql 
