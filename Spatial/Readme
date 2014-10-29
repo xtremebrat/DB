@@ -1,0 +1,15 @@
+Compile and run the Java program
+
+Create a new Java project in eclipse.
+Add the following jar files to the external libraries: ojdbc6.jar and sdoapi.jar 
+Then build the project.
+Running the queries is as per the specification. Select Run Configurations. Then select the arguments tab. Type in the arguments as shown below and click run.
+
+demo 1
+demo 2
+demo 3
+demo 4
+demo 5
+nn building b3 5
+within firehydrant OHE 250
+window firebuilding 10 20 300 500
