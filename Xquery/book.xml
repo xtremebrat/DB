@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<BookStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="book.xsd">
+	<Book>
+		<ID>1</ID>
+		<Title>A Heartbreaking Work of Staggering Genius</Title>
+		<Author>Dave Eggers</Author>
+		<Price>$22.75</Price>
+		<ISBN>0-37-572578-4</ISBN>
+		<Publish_Date>2001-02-13</Publish_Date>
+	</Book>
+	<Book>
+		<ID>2</ID>
+		<Title>All the President's Men</Title>
+		<Author>Bob Woodward, Carl Bernstein</Author>
+		<Price>$10.51</Price>
+		<ISBN>6-718-49441-2</ISBN>
+		<Publish_Date>1994-06-16</Publish_Date>
+	</Book>	<Book>
+		<ID>3</ID>
+		<Title>Life After Life</Title>
+		<Author>Kate Atkinson</Author>
+		<Price>$27.99</Price>
+		<ISBN>4-316-17648-6</ISBN>
+		<Publish_Date>2013-04-02</Publish_Date>
+	</Book>	<Book>
+		<ID>4</ID>
+		<Title>Alex Cross, Run</Title>
+		<Author>James Patterson</Author>
+		<Price>$28.99</Price>
+		<ISBN>7-31-609751-9</ISBN>
+		<Publish_Date>2013-02-18</Publish_Date>
+	</Book>	<Book>
+		<ID>5</ID>
+		<Title>Tenth of December</Title>
+		<Author>George Saunders</Author>
+		<Price>$14.64</Price>
+		<ISBN>1-81299-380-6</ISBN>
+		<Publish_Date>2014-02-10</Publish_Date>
+	</Book>	<Book>
+		<ID>6</ID>
+		<Title>Allegiant</Title>
+		<Author>Veronica Roth</Author>
+		<Price>$31.57</Price>
+		<ISBN>6-57399-410-2</ISBN>
+		<Publish_Date>2013-10-22</Publish_Date>
+	</Book>	<Book>
+		<ID>7</ID>
+		<Title>The Winter People</Title>
+		<Author>Jennifer McMahon,Joseph Bruchac</Author>
+		<Price>$15.88</Price>
+		<ISBN>9-385-95384-9</ISBN>
+		<Publish_Date>2014-02-11</Publish_Date>
+	</Book>	<Book>
+		<ID>8</ID>
+		<Title>Still Life with Bread Crumbs</Title>
+		<Author>Anna Quindlen,Sue Monk Kidd</Author>
+		<Price>$26.40</Price>
+		<ISBN>5-63-160433-7</ISBN>
+		<Publish_Date>2014-01-28</Publish_Date>
+	</Book>	<Book>
+		<ID>9</ID>
+		<Title>A Game of Thrones</Title>
+		<Author>George R.R. Martin</Author>
+		<Price>$27.75</Price>
+		<ISBN>8-93110-553-4</ISBN>
+		<Publish_Date>2013-10-29</Publish_Date>
+	</Book>	<Book>
+		<ID>10</ID>
+		<Title>A Song of Ice and Fire</Title>
+		<Author>George R.R. Martin</Author>
+		<Price>$24.60</Price>
+		<ISBN>8-931-32108-1</ISBN>
+		<Publish_Date>2014-01-15</Publish_Date>
+	</Book>
+</BookStore>
